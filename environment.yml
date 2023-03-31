@@ -1,6 +1,0 @@
-name: first jupyter notebook
-channels: 
-  - conda-forge
-dependencies: 
-  - python =3
-  - obspy >=1.2.0
