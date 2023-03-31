@@ -1,4 +1,4 @@
-name: my jupyter notebook
+name: first jupyter notebook
 channels:
   - conda-forge
 dependencies:
